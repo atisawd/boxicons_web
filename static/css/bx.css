@@ -18,7 +18,7 @@
     font-style: normal;
     font-variant: normal;
     line-height: 1;
-
+    text-rendering: auto;
     display: inline-block;
 
     text-transform: none;
@@ -448,6 +448,10 @@
 {
     font-size: 2.25rem!important;
 }
+.bx-lg
+{
+    font-size: 3.0rem!important;
+}
 .bx-fw
 {
     font-size: 1.2857142857em;
@@ -459,18 +463,12 @@
 
     vertical-align: middle;
 }
-
-.bx-lg
-{
-    font-size: 3.0rem!important;
-}
 .bx-pull-left
 {
     float: left;
 
     margin-right: .3em!important;
 }
-
 .bx-pull-right
 {
     float: right;
