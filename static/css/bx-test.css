@@ -489,6 +489,7 @@
 
     -ms-filter: 'progid:DXImageTransform.Microsoft.BasicImage(rotation=2)';
 }
+
 .bx-rotate-270
 {
     transform: rotate(270deg);
@@ -505,6 +506,11 @@
 {
     transform: scaleY(-1);
 
+    -ms-filter: 'progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)';
+}
+.bx-flip-both
+{
+    transform: scale(-1);
     -ms-filter: 'progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)';
 }
 .bx-border
