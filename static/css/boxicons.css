@@ -2602,6 +2602,9 @@
   .bx-menu:before {
     content: "\eb5f";
   }
+  .bx-menu-alt-left:before {
+    content: "\ef5b";
+  }
   .bx-menu-alt-right:before {
     content: "\eb61";
   }
@@ -2673,6 +2676,9 @@
   }
   .bx-message-rounded-dots:before {
     content: "\eb78";
+  }
+  .bx-message-rounded-edit:before {
+    content: "\ef5c";
   }
   .bx-message-rounded-error:before {
     content: "\eb7a";
@@ -2746,6 +2752,9 @@
   .bx-mobile-landscape:before {
     content: "\eb91";
   }
+  .bx-mobile-vibration:before {
+    content: "\ef5d";
+  }
   .bx-money:before {
     content: "\eb93";
   }
@@ -2817,6 +2826,9 @@
   }
   .bx-paperclip:before {
     content: "\ebaa";
+  }
+  .bx-paper-plane:before {
+    content: "\ef61";
   }
   .bx-paragraph:before {
     content: "\ebac";
@@ -2890,6 +2902,9 @@
   .bx-podcast:before {
     content: "\ebc3";
   }
+  .bx-pointer:before {
+    content: "\ef5e";
+  }
   .bx-poll:before {
     content: "\ebc5";
   }
@@ -2962,6 +2977,9 @@
   .bx-repeat:before {
     content: "\ebdc";
   }
+  .bx-reply:before {
+    content: "\ef5f";
+  }
   .bx-reply-all:before {
     content: "\ebde";
   }
@@ -3033,6 +3051,9 @@
   }
   .bx-scan:before {
     content: "\ebf5";
+  }
+  .bx-screenshot:before {
+    content: "\ef60";
   }
   .bx-search:before {
     content: "\ebf7";
